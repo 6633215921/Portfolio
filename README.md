@@ -1,15 +1,20 @@
-# Personal_works
-High school
+## Personal_works
+
+# High school
 
   ML : https://drive.google.com/drive/folders/16HqAh0CdpcaimY0EvKS7tZ2j4qVupr1M
   
-freshman 
+# Freshman 
 
-  Frontend : https://github.com/6633215921/CarRentalFrontend
+  Frontend : https://github.com/2110503TACEDT66/presentation-day-1-groupback
   
-  Backend : https://github.com/6633215921/carRentalApp
+  Backend : https://github.com/2110503TACEDT66/swdevprac2-project-groupback
+
+  Software Engineering : https://github.com/2110503TACEDT66/cedt-se-project-bonk-no-lazy
+
+  Java : https://github.com/2110215-ProgMeth/project-cedt-2023-2-pm2-5
   
-sophomore
+# Sophomore
 
   Embedding systems : https://github.com/6633215921/embedding_code
   
