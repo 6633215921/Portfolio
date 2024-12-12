@@ -1,10 +1,10 @@
-## Personal_works
+# Personal_works
 
-# High school
+## High school
 
   ML : https://drive.google.com/drive/folders/16HqAh0CdpcaimY0EvKS7tZ2j4qVupr1M
   
-# Freshman 
+## Freshman 
 
   Frontend : https://github.com/2110503TACEDT66/presentation-day-1-groupback
   
@@ -14,7 +14,7 @@
 
   Java : https://github.com/2110215-ProgMeth/project-cedt-2023-2-pm2-5
   
-# Sophomore
+## Sophomore
 
   Embedding systems : https://github.com/6633215921/embedding_code
   
