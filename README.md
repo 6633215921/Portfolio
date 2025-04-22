@@ -13,6 +13,10 @@
   Software Engineering : https://github.com/2110503TACEDT66/cedt-se-project-bonk-no-lazy
 
   Java : https://github.com/2110215-ProgMeth/project-cedt-2023-2-pm2-5
+
+## Trainee:Gosoft
+
+  RAG : https://github.com/6633215921/Trainee.git
   
 ## Sophomore
 
